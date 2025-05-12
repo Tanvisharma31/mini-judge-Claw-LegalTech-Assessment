@@ -45,7 +45,7 @@ MiniJudge consists of three main components:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/Tanvisharma31/minijudge.git
+   git clone https://github.com/Tanvisharma31/mini-judge-Claw-LegalTech-Assessment.git
    cd minijudge
    ```
 
